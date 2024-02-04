@@ -3,38 +3,12 @@
 [![NPM version](https://img.shields.io/npm/v/snow-base.svg?style=flat)](https://npmjs.org/package/snow-base)
 [![NPM downloads](http://img.shields.io/npm/dm/snow-base.svg?style=flat)](https://npmjs.org/package/snow-base)
 
-A react library developed with dumi
+React 系列工具库
 
-## Usage
+## 在线文档
 
-TODO
+[snow-base]()
 
-## Options
+## github
 
-TODO
-
-## Development
-
-```bash
-# install dependencies
-$ pnpm install
-
-# develop library by docs demo
-$ pnpm start
-
-# build library source code
-$ pnpm run build
-
-# build library source code in watch mode
-$ pnpm run build:watch
-
-# build docs
-$ pnpm run docs:build
-
-# check your project for potential problems
-$ pnpm run doctor
-```
-
-## LICENSE
-
-MIT
+[Jimmylxue](https://github.com/Jimmylxue)
